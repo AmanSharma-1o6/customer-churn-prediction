@@ -7,11 +7,11 @@ SHAP explainability → survival analysis → deployed Streamlit app.
 
 ## Go [here](https://github.com/AmanSharma-1o6/customer-churn-prediction/tree/main/churn-project/images) to see visual representation. 
 
-## 🛠 Tech Stack
+## Tech Stack
 Python | Pandas | Scikit-learn | XGBoost | SMOTE | SHAP | 
 Lifelines (Kaplan-Meier) | Streamlit
 
-## 📊 Results
+## Results
 | Model | ROC-AUC | Recall (Churn) |
 |-------|---------|----------------|
 | Logistic Regression (baseline) | 0.822 | 74% |
