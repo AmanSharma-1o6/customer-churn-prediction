@@ -3,6 +3,11 @@
 End-to-end churn analytics project: EDA → ML classification → 
 SHAP explainability → survival analysis → deployed Streamlit app.
 
+## Python script for analysis is also provided and the data used are taken from [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## Go [here](## Python script for analysis is also provided and the data used are taken from [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+) to see visual representation. 
+
 ## 🛠 Tech Stack
 Python | Pandas | Scikit-learn | XGBoost | SMOTE | SHAP | 
 Lifelines (Kaplan-Meier) | Streamlit
