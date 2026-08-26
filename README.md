@@ -1,4 +1,4 @@
-# 📞 Customer Churn Prediction & Survival Analysis
+#  ustomer Churn Prediction & Survival Analysis
 
 End-to-end churn analytics project: EDA → ML classification → 
 SHAP explainability → survival analysis → deployed Streamlit app.
@@ -13,7 +13,7 @@ Lifelines (Kaplan-Meier) | Streamlit
 | Logistic Regression (baseline) | 0.822 | 74% |
 | XGBoost (tuned)                | 0.816 | 66% |
 
-## 🔑 Key Insights
+## Key Insights
 1. **Contract type is the #1 churn driver** — month-to-month customers 
    churn ~42% vs ~3% for two-year contracts
 2. **First 6 months = danger zone** — new customers churn at ~58%, 
@@ -24,7 +24,7 @@ Lifelines (Kaplan-Meier) | Streamlit
    customers re-evaluate the service every month
 5. **Median lifetime**: month-to-month ~27 months vs 72+ months contracted
 
-## 💰 Business Impact
+## Business Impact
 Flagged ~340 high-risk customers in the test set. A targeted retention 
 campaign saving 30% of them protects an estimated ~$357K in lifetime revenue.
 
@@ -38,6 +38,6 @@ campaign saving 30% of them protects an estimated ~$357K in lifetime revenue.
  <img width="793" height="903" alt="image" src="https://github.com/user-attachments/assets/292c995c-b524-47d1-a69e-946af7c296a4" />
  
 
-## 🚀 Run Locally
+## Run Locally
 pip install -r requirements.txt
 streamlit run app/app.py
