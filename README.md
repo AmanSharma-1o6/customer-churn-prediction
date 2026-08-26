@@ -1,4 +1,4 @@
-#  ustomer Churn Prediction & Survival Analysis
+#  Customer Churn Prediction & Survival Analysis
 
 End-to-end churn analytics project: EDA → ML classification → 
 SHAP explainability → survival analysis → deployed Streamlit app.
@@ -41,3 +41,5 @@ campaign saving 30% of them protects an estimated ~$357K in lifetime revenue.
 ## Run Locally
 pip install -r requirements.txt
 streamlit run app/app.py
+
+## Python script for analysis is also provided and the data used are taken from [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
