@@ -28,13 +28,15 @@ Lifelines (Kaplan-Meier) | Streamlit
 Flagged ~340 high-risk customers in the test set. A targeted retention 
 campaign saving 30% of them protects an estimated ~$357K in lifetime revenue.
 
-## 🖥 Live Demo (<img width="832" height="901" alt="image" src="https://github.com/user-attachments/assets/4605e8aa-dc2a-4b63-8ce4-d34ae6705e66" />)
+## 🖥 Live Demo 
+(<img width="832" height="901" alt="image" src="https://github.com/user-attachments/assets/4605e8aa-dc2a-4b63-8ce4-d34ae6705e66" />)
 
-| High Risk | Low Risk |
-|-----------|----------|
-| (<img width="723" height="877" alt="image" src="https://github.com/user-attachments/assets/1542f2f7-f51d-4b5c-bf44-c9c098229238" />)
- | (<img width="793" height="903" alt="image" src="https://github.com/user-attachments/assets/292c995c-b524-47d1-a69e-946af7c296a4" />)
- |
+## High Risk
+ <img width="723" height="877" alt="image" src="https://github.com/user-attachments/assets/1542f2f7-f51d-4b5c-bf44-c9c098229238" />
+
+## Low Risk 
+ (<img width="793" height="903" alt="image" src="https://github.com/user-attachments/assets/292c995c-b524-47d1-a69e-946af7c296a4" />)
+ 
 
 ## 🚀 Run Locally
 pip install -r requirements.txt
