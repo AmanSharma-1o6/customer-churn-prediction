@@ -5,8 +5,7 @@ SHAP explainability → survival analysis → deployed Streamlit app.
 
 ## Python script for analysis is also provided and the data used are taken from [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-## Go [here](## Python script for analysis is also provided and the data used are taken from [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-) to see visual representation. 
+## Go [here](https://github.com/AmanSharma-1o6/customer-churn-prediction/tree/main/churn-project/images) to see visual representation. 
 
 ## 🛠 Tech Stack
 Python | Pandas | Scikit-learn | XGBoost | SMOTE | SHAP | 
